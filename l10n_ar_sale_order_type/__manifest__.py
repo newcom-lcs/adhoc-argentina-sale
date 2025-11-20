@@ -13,7 +13,7 @@
     ],
     "data": [
         "views/sale_order_type_views.xml",
-        "views/sale_report_templates.xml",
+        # "views/sale_report_templates.xml",
     ],
     "demo": [],
     "installable": True,
